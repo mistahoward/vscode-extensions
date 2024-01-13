@@ -2,7 +2,7 @@
   "name": "c-",
   "displayName": "C#",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -10,6 +10,12 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "publisher.extensionName"
+    "ms-dotnettools.vscode-dotnet-runtime",
+    "ms-dotnettools.csharp",
+    "ms-dotnettools.csdevkit",
+    "kreativ-software.csharpextensions",
+    "k--kato.docomment",
+    "csharpier.csharpier-vscode",
+    "jmrog.vscode-nuget-package-manager"
   ]
 }
