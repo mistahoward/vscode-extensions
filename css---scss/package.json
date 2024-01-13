@@ -10,6 +10,11 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "publisher.extensionName"
+    "clinyong.vscode-css-modules",
+    "pranaygp.vscode-css-peek",
+    "ecmel.vscode-html-css",
+    "Zignd.html-css-class-completion",
+    "sibiraj-s.vscode-scss-formatter",
+    "mrmlnc.vscode-scss"
   ]
 }
