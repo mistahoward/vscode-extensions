@@ -10,6 +10,9 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "publisher.extensionName"
+    "ms-vscode.cpptools",
+    "ms-vscode.cpptools-themes",
+    "twxs.cmake",
+    "ms-vscode.cmake-tools"
   ]
 }

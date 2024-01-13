@@ -1,9 +1,9 @@
 # Change Log
-
 All notable changes to the "c-c--" extension pack will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## [1.0.0] - 1/12/2024
+### Added
+- ms.vscode.cpptools
+- ms-vscode.cpptools-themes
+- twxs.cmake
+- ms-vscode.cmake-tools
