@@ -10,6 +10,17 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "publisher.extensionName"
+    "EliverLara.andromeda",
+    "SenkoTheKitsune.nomo-dark-extended",
+    "akamud.vscode-theme-onelight",
+    "aaron-bond.better-comments",
+    "alefragnani.Bookmarks",
+    "streetsidesoftware.code-spell-checker",
+    "GitHub.copilotGitHub.copilot",
+    "GitHub.copilot-chat",
+    "eamodio.gitlens",
+    "johnpapa.vscode-peacock",
+    "esbenp.prettier-vscode",
+    "albert.TabOut"
   ]
 }
