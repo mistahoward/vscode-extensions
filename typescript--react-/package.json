@@ -10,6 +10,15 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "publisher.extensionName"
+    "dsznajder.es7-react-js-snippetsdsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "wix.vscode-import-cost",
+    "ms-vscode.vscode-typescript-next",
+    "Orta.vscode-jest",
+    "zachhardesty.jsdoc-comment-toggler",
+    "christian-kohler.npm-intellisense",
+    "ms-playwright.playwright",
+    "YoavBls.pretty-ts-errors",
+    "burkeholland.simple-react-snippets"
   ]
 }
