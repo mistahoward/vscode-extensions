@@ -1,0 +1,19 @@
+{
+  "name": "python",
+  "displayName": "python",
+  "description": "",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "njpwerner.autodocstring",
+    "ms-python.black-formatter",
+    "ms-python.python",
+    "KevinRose.vsc-python-indent",
+    "charliermarsh.ruff"
+  ]
+}
